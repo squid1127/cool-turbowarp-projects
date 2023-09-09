@@ -3,15 +3,13 @@ layout: home
 title: Home
 ---
 
-## Projects
+## Art
 
-### Art
+### [Cool Pen Art](/art/cool-pen-art/about.md)
 
-- [Cool Pen Art](/art/cool-pen-art/about.md)
+## Games
 
-### Games
-
-- [Beam & Ball](/cool/beam-and-ball/about.md)
+### [Beam & Ball](/cool/beam-and-ball/about.md)
 
 ## DISCLAIMER: I have little experience with GitHub (or Pages) DO NOT EXPECT THIS SITE TO WORK PROPERLY
 
