@@ -6,8 +6,6 @@ scratch: https://scratch.mit.edu/projects/889986275/
 play: /Art/cool-pen-art/packaged-project/v2-4.html
 ---
 
-[Scratch Version](https://scratch.mit.edu/projects/889986275/) | [Open now!](/packaged-project/v2-4.html)
-
 ## Instructions
 
 Click the green flag to watch cool pen art
