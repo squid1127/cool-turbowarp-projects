@@ -22,7 +22,7 @@
         <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default:
             site.github.project_tagline }}</h2>
-        <a href="{{ page.play }}" class="btn" target="_blank">Play </a>
+        <a href="{{ page.play | relative_url }}" class="btn" target="_blank">Play </a>
 
         <a href="{{ page.scratch }}" class="btn" target="_blank">View on Scratch</a>
 
