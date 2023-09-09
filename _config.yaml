@@ -1,4 +1,10 @@
 title: squid1127's Cool Projects
 remote_theme: Bilal2453/cayman-docs
 plugins:
-- jekyll-remote-theme 
+  - jekyll-remote-theme
+
+navigation:
+  name_over_title:
+    false
+  toc_parameter: 
+    sanitize: true
