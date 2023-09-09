@@ -1,4 +1,7 @@
-# squid1127's Cool Turbowarp Projects
+---
+layout: default
+title: squid1127's Cool Turbowarp Projects
+---
 
 ## Projects
 
