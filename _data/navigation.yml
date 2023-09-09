@@ -1,0 +1,8 @@
+- title: Home
+  url: /
+
+- title: Art
+  url: /art/
+  sublinks:
+    - title: Cool Pen Art
+      url: /art/cool-pen-art/about.md
