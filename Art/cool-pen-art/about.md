@@ -31,3 +31,5 @@ Options can be accessed by clicking on the menu button (once or twice)
 | Resolution         | 2   | 1-7               | How accurate the art should look. A lower resolution will result in the better curves, etc. | Medium             |
 | Thickness          | 2   | 0.01-6            | How thick the line should be                                                                | None               |
 | re-render attempts | 2   | -1-100            | How much the renderer should execute each time the a value is changed (-1 = disabled)       | Very High          |
+
+[Home](/)

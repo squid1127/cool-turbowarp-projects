@@ -1,6 +1,6 @@
 ---
 layout: home
-title: squid1127's Cool Turbowarp Projects
+title: Home
 ---
 
 ## Projects
