@@ -5,6 +5,6 @@ Projects:
 
 - Cool Pen Art
 
-## Warning! I do not have much experience with GitHub at all
+## Warning! I do not have much experience with GitHub at all (none!)
 
 ### In other words, this repository probably not formatted correctly
