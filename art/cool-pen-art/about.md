@@ -7,6 +7,8 @@ show_scratch: true
 play: /art/cool-pen-art/packaged/v2-4.html
 ---
 
+[< Home](/index.md)
+
 ## Instructions
 
 Click the green flag to watch cool pen art

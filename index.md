@@ -13,6 +13,6 @@ title: Home
 
 - [Beam & Ball](/cool/beam-and-ball/about.md)
 
-## DISCLAIMER: I have little experience with GitHub (or Pages) at all. DO NOT EXPECT THIS SITE TO WORK PROPERLY
+## DISCLAIMER: I have little experience with GitHub (or Pages) DO NOT EXPECT THIS SITE TO WORK PROPERLY
 
 ## Nice! :)
