@@ -1,4 +1,4 @@
-# turbowarp-projects
+# squid1127's Cool Turbowarp Projects
 
 Scratch projects that take advantage of TurboWarp's unsandboxed extensions
 
