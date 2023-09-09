@@ -2,7 +2,13 @@
   url: /
 
 - title: Art
-  url: /art/
+  url: /
   sublinks:
     - title: Cool Pen Art
-      url: /art/cool-pen-art/about.md
+      url: /art/cool-pen-art/about
+
+- title: Games
+  url: /
+  sublinks:
+    - title: Bean & Ball
+      url: /cool/beam-and-ball/about
