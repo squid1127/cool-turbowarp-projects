@@ -3,7 +3,7 @@ layout: project
 title: Cool Pen Art
 description: Very cool pen art that is generated with math
 scratch: https://scratch.mit.edu/projects/889986275/
-play: /Art/cool-pen-art/packaged/v2-4.html
+play: /art/cool-pen-art/packaged/v2-4.html
 ---
 
 ## Instructions
