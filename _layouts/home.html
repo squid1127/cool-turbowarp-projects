@@ -33,14 +33,12 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-        {% for item in site.data.nav.toc %}
-        <h3>{{ item.title }}</h3>
-          <ul>
-            {% for entry in item.subfolderitems %}
-              <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
-            {% endfor %}
-          </ul>
-      {% endfor %}
+        {% assign doclist = site.data.samplelist.docs | sort: 'title'  %}
+        <ol>
+        {% for item in doclist %}
+            <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+        {% endfor %}
+        </ol>
 
         {{ content }}
 
