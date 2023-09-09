@@ -32,4 +32,4 @@ Options can be accessed by clicking on the menu button (once or twice)
 | Thickness          | 2   | 0.01-6            | How thick the line should be                                                                | None               |
 | re-render attempts | 2   | -1-100            | How much the renderer should execute each time the a value is changed (-1 = disabled)       | Very High          |
 
-[Home](/)
+[Home](/cool-turbowarp-projects/)
