@@ -7,4 +7,4 @@ Projects:
 
 ## Warning! I do not have much experience with GitHub at all
 
-### In other words, this repository probably not formatted ocrrectly
+### In other words, this repository probably not formatted correctly
