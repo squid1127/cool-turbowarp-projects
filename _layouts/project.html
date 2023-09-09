@@ -24,8 +24,9 @@
             site.github.project_tagline }}</h2>
         <a href="{{ page.play | relative_url }}" class="btn" target="_blank">Play </a>
 
+        {% if page.show_scratch %}
         <a href="{{ page.scratch }}" class="btn" target="_blank">View on Scratch</a>
-
+        {% endif %}
     </header>
 
     <main id="content" class="main-content" role="main">

@@ -1,8 +1,9 @@
 ---
-layout: project_no_scratch
+layout: project
 title: Beam & Ball
 description: A balance the beam game
 play: /cool/beam-and-ball/packaged/v1.1-1
+show_scratch: false
 ---
 
 ## Instructions
