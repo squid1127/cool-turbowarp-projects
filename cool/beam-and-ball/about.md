@@ -1,7 +1,12 @@
 ---
-layout: project
+layout: project_no_scratch
 title: Beam & Ball
 description: A balance the bean game
-scratch: https://scratch.mit.edu/projects/889986275/
-play: /art/cool-pen-art/packaged/v2-4.html
+play: /cool/beam-and-ball/packaged/v1.1-1
 ---
+
+## Instructions
+
+To play, use the left and right keys to move the ball back and forth. On Mobile, tap either side of the screen to move.
+
+### Squial coming soon
