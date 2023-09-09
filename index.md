@@ -7,11 +7,11 @@ title: Home
 
 ### Art
 
-- [Cool Pen Art](/art/cool-pen-art/about)
+- [Cool Pen Art](/art/cool-pen-art/about.md)
 
 ### Games
 
-- [Beam & Ball](/cool/beam-and-ball/about)
+- [Beam & Ball](/cool/beam-and-ball/about.md)
 
 ## DISCLAIMER: I have little experience with GitHub (or Pages) at all. DO NOT EXPECT THIS SITE TO WORK PROPERLY
 
