@@ -7,7 +7,7 @@ show_scratch: true
 play: /art/cool-pen-art/packaged/v2-4.html
 ---
 
-[< Home](index.md)
+[< Home](/cool-turbowarp-projects/)
 
 ## Instructions
 
