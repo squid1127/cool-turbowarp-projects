@@ -15,7 +15,7 @@ Click the green flag to watch cool pen art
 | Key   | Function      | Description                                                          |
 | ----- | ------------- | -------------------------------------------------------------------- |
 | C     | Clear         | Clears the screen and start over                                     |
-| Space | Change values | Change X & Y values to spefeic numbers over the limit of teh sliders |
+| Space | Change values | Change X & Y values to spefeic numbers over the limit of the sliders |
 
 More Keys to be added soon
 
