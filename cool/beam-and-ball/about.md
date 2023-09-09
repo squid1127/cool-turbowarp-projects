@@ -1,7 +1,7 @@
 ---
 layout: project_no_scratch
 title: Beam & Ball
-description: A balance the bean game
+description: A balance the beam game
 play: /cool/beam-and-ball/packaged/v1.1-1
 ---
 
@@ -9,4 +9,4 @@ play: /cool/beam-and-ball/packaged/v1.1-1
 
 To play, use the left and right keys to move the ball back and forth. On Mobile, tap either side of the screen to move.
 
-### Squial coming soon
+### Sequel coming soon
