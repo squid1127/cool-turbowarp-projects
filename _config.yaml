@@ -1,4 +1,4 @@
 title: squid1127's Cool Projects
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: Bilal2453/cayman-docs
 plugins:
 - jekyll-remote-theme 
