@@ -1,7 +1,7 @@
 ---
 layout: default
-title: squid1127's Cool Turbowarp Projects
-description: Scratch projects that take advantage of TurboWarp's unsandboxed extensions
+title: Cool Pen Art
+description: Very cool pen art that is generated w/ math
 ---
 
 [Scratch Version](https://scratch.mit.edu/projects/889986275/) | [Open now!](/packaged-project/v2-4.html)
