@@ -12,4 +12,4 @@ Tip: Art resets when a value is changed
 Warning: Scratch cannot run speeds over 1200 effectively
 For better pen performance, go [here](https://turbowarp.org/889986275/)
 
-[Play](/Art/cool-pen-art/packaged-project/v2-4.html)
+[Play](/packaged-project/v2-4.html)
