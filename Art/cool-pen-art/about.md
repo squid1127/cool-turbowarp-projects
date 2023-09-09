@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: project
 title: Cool Pen Art
 description: Very cool pen art that is generated w/ math
+scratch: https://scratch.mit.edu/projects/889986275/
+play: /packaged-project/v2-4.html
 ---
 
 [Scratch Version](https://scratch.mit.edu/projects/889986275/) | [Open now!](/packaged-project/v2-4.html)
