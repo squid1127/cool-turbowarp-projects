@@ -1,5 +1,5 @@
 title: squid1127's Cool Projects
-remote_theme: Bilal2453/cayman-docs
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
