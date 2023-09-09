@@ -1,9 +1,3 @@
----
-layout: default
-title: squid1127's Cool Turbowarp Projects
-description: Scratch projects that take advantage of TurboWarp's unsandboxed extensions
----
-
 ## Projects
 
 - [Cool Pen Art](/Art/cool-pen-art/about.md)
