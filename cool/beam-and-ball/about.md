@@ -6,7 +6,7 @@ play: /cool/beam-and-ball/packaged/v1.1-1
 show_scratch: false
 ---
 
-[< Home](/index.md)
+[< Home](index.md)
 
 ## Instructions
 
