@@ -5,7 +5,7 @@ title: Home
 
 ## Projects
 
-1. [Cool Pen Art](/Art/cool-pen-art/about.md)
+### [Cool Pen Art](https://scratch.mit.edu/projects/889986275/)
 
 ## Warning! I do not have much experience with GitHub at all (none!)
 
