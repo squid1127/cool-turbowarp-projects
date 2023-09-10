@@ -2,7 +2,7 @@
 layout: project
 title: Discord Webhook Test
 description: A Turbohook test
-play: /tests/discord/packaged/v1-3
+play: /tests/discord/packaged/v1-4
 show_scratch: false
 ---
 
