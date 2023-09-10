@@ -13,7 +13,7 @@ title: Home
 
 ## Tests
 
-### [Discord Webhook Test](/test/discord/about.md)
+### [Discord Webhook Test](/tests/discord/about.md)
 
 ## DISCLAIMER: I have little experience with GitHub (or Pages) DO NOT EXPECT THIS SITE TO WORK PROPERLY
 
