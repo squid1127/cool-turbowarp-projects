@@ -2,7 +2,7 @@
 layout: project
 title: Beam & Ball
 description: A balance the beam game
-play: /cool/beam-and-ball/packaged/v1.1-1
+play: /cool/beam-and-ball/packaged/v1.1-2
 show_scratch: false
 ---
 
