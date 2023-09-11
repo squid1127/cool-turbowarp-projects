@@ -4,7 +4,14 @@ Scratch projects that take advantage of TurboWarp's unsandboxed extensions
 
 ## Projects
 
-- [Cool Pen Art](/Art/cool-pen-art/about.md)
+### Art
+
+#### [Cool Pen Art](/art/cool-pen-art/about.md)
+
+### Games
+
+#### [Beam & Ball](/cool/beam-and-ball/about.md)
+
 
 ## Warning! I do not have much experience with GitHub
 
