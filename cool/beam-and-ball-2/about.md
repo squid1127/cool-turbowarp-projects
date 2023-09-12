@@ -13,3 +13,5 @@ show_scratch: false
 ## Instructions
 
 To play, use the left and right keys to move the ball back and forth. On Mobile, tap either side of the screen to move.
+
+### Warning! Still in alpha, so expect glitches. Only 4 levels complete
