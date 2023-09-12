@@ -6,7 +6,7 @@ play: /cool/beam-and-ball-2/packaged/v0.1-1
 show_scratch: false
 ---
 
-[Home](/cool-turbowarp-projects/) > Games > [Beam & Ball](about.md)
+[Home](/cool-turbowarp-projects/) > Games > [Beam & Ball 2](about.md)
 
 ### Sequel to [Beam & Ball](/cool/beam-and-ball/about.md)
 
