@@ -13,3 +13,5 @@ show_scratch: false
 To play, use the left and right keys to move the ball back and forth. On Mobile, tap either side of the screen to move.
 
 ### Sequel coming soon
+
+## Yes, [name redacted] I know your addicted to it
