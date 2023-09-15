@@ -14,4 +14,4 @@ To play, use the left and right keys to move the ball back and forth. On Mobile,
 
 ### Sequel coming soon
 
-## Yes, [name hiden for obvious reasons] I know your addicted to it
+## Yes, [name hiden for obvious reasons] I know your addicted to it ;)
