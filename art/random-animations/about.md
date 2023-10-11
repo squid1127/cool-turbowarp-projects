@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Randomized Animations
+title: Randomized Animations (Alpha)
 description: Random lines that look like a screensaver
 scratch: https://scratch.mit.edu/projects/777540405/
 show_scratch: true
@@ -25,10 +25,6 @@ Credit to [tdb3](https://scratch.mit.edu/users/tdb3/) for average
 
 - added custom mouse cursor
 - adjusted settings for 16:9 screens
-
-## Instructions
-
-Click the green flag to watch cool pen art
 
 ### Controls
 
