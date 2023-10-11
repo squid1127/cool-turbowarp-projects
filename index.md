@@ -7,6 +7,8 @@ title: Home
 
 ### [Cool Pen Art](/art/cool-pen-art/about.md)
 
+### [Randomized Animations "Screensaver"] (/art/random-animations/about.md)
+
 ## Games
 
 ### [Beam & Ball](/cool/beam-and-ball/about.md)
