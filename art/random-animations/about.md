@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Randomized Animations (Alpha)
+title: Randomized Animations (Beta)
 description: Random lines that look like a screensaver
 scratch: https://scratch.mit.edu/projects/777540405/
 show_scratch: true
