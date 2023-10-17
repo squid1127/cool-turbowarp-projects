@@ -2,7 +2,7 @@
 layout: project
 title: Beam & Ball
 description: A balance the beam game
-play: /cool/beam-and-ball/packaged/v0.2
+play: /cool/beam-and-ball/packaged/v1.1-2
 show_scratch: false
 ---
 
@@ -13,5 +13,3 @@ show_scratch: false
 To play, use the left and right keys to move the ball back and forth. On Mobile, tap either side of the screen to move.
 
 ### Sequel coming soon
-
-## Yes, [name hiden for obvious reasons] I know your addicted to it ;)
