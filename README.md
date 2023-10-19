@@ -1,4 +1,4 @@
-# squid1127's Cool Turbowarp Projects
+# [squid1127](https://scratch.mit.edu/users/squid1127/)'s Cool Turbowarp Projects
 
 Scratch projects that take advantage of TurboWarp's unsandboxed extensions
 
