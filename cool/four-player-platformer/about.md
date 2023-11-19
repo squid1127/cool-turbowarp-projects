@@ -11,7 +11,9 @@ show_scratch: false
 ## Still in alpha, simply a test right now
 
 ## Instructions
-Nothing to do right now besides moving around. It's just a proof of concept for now...
+
+Nothing to do right now besides moving around. It's just a proof of concept for now. Trying to see if using one big stage is a good idea
+
 ### Player 1
 
 Use WASD to move
