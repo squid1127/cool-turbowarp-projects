@@ -2,7 +2,7 @@
 layout: project
 title: Four Player Tag (Or at least it will be some day)
 description: Tag w/ four players
-play: https://turbowarp.org/?project_url=https://squid1127.github.io/cool-turbowarp-projects/cool/four-player-platformer/turbowarp/v0.1.sb3&interpolate&clones=Infinity&offscreen&limitless&hqpen
+play: https://turbowarp.org/?project_url=https://squid1127.github.io/cool-turbowarp-projects/cool/four-player-platformer/turbowarp/v0.1.sb3
 show_scratch: false
 ---
 
@@ -22,10 +22,10 @@ Use WASD to move
 
 Use Arrow Keys to move
 
-### Player 4
+### Player 3
 
 Use 8456 on the num pad (Also like WASD)
 
-### Player 3
+### Player 4
 
 Use IJKL to move (It's like WASD)
