@@ -12,7 +12,7 @@ Scratch projects that take advantage of TurboWarp's unsandboxed extensions
 
 #### [Beam & Ball](/cool/beam-and-ball/about.md)
 
-#### [Beam & Ball 2 (Unfinished)](/cool/beam-and-ball-2/about.md)
+#### [Beam & Ball 2 (Unfinished, not going to be)](/cool/beam-and-ball-2/about.md)
 
 #### [Four player Tag (Alpha, testing purposeses only)](/cool/four-player-platformer/about.md)
 
